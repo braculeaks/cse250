@@ -14,9 +14,6 @@
 <div style="font-size: 0.85em;margin-top:  0px;" align=center>  Monday+Wednesday, 3:30pm (1hour20minutes)   </div>
 
 
-### TODO:
-1. Download LabSheets @ Semester-End: https://drive.google.com/drive/folders/1vS5r47VJLmh8RJNey37f2RXB6fUrHkm9
-
 ### How to get CGPA 4.0?
 1. Take TAV >>> HMH/SDAS > PDS/SDS as faculty
     - Check full list inside github.com/braculeaks/bracu.cse/faculties.md 
@@ -24,6 +21,25 @@
     - SDS Recorded his offline classes spring 2026
 3. Solve all Slide-Problems first
 4. Solve pastYear examQuestions
+5. Labs
+    1. Lab Exams are the main obstacles. So, how do you get around them?
+        ```js 
+        1.     Night before every lab:       Watch lab recordings
+        2.            after every lab:  Watch same lab recordings again + Watch next lab's stuffs
+        3.           inside every lab: take photoes
+        4. before you leave every lab: complete the assignment. After you get home, you WILL NOT HAVE TIME!!!!
+        5.               practice lab: make sure to come to the practice lab. Try to convince your group mates too.
+        6.    the day before lab exam: go over the lab recordings once last time
+        ```
+    2. Hi, I am REYNEP.
+        1. Well, the main problem is, inside the lab, you don't get much time to play around with the tools for long enough.
+        2. So, on the night before every lab
+            - make sure you watch the corresponding lab recordings / videos
+        3. If you didn't, make sure you watch after the lab at least. Otherwise, Lab Exam's hardness will catch up to you.
+        4. Everyone thinks that they will complete the assignment later. Because, "THERES A LOT OF TIME". But trust me, that ain't ever true.
+            - complete the Lab Assignment before you step out of the lab.
+        5. Convince your group mates to come to the practice lab on time. Use it! Learn Together!
+        6. Before Lab Exam, The night before, go over the lab recordings one last time.  
 
 ### Links
 - 0.outline            : [🔗][0]
