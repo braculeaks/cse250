@@ -6,11 +6,11 @@
 
 <h2  style="font-size: 1.25em;margin-top: 30px;" align=center>  Lab Section 10A             </h2>
 <div style="font-size: 0.85em;margin-top:-14px;" align=center>  [SDAS] Sowmitra Das         </div>
-<div style="font-size: 0.85em;margin-top:  0px;" align=center>  [TBA]                       </div>
+<div style="font-size: 0.85em;margin-top:  0px;" align=center>  [HMH] Mir Hamidul Hussain   </div>
 <div style="font-size: 0.85em;margin-top:  0px;" align=center>  Tuesday, 11:00am (3hours)   </div>
 
 <h2  style="font-size: 1.25em;margin-top: 30px;" align=center>  Theory Section 10                           </h2>
-<div style="font-size: 0.85em;margin-top:-14px;" align=center>  [TAV] Tanvir Anjum Aditto                   </div>
+<div style="font-size: 0.85em;margin-top:-14px;" align=center>  [TAV] Tarvir Anjum Aditto                   </div>
 <div style="font-size: 0.85em;margin-top:  0px;" align=center>  Monday+Wednesday, 3:30pm (1hour20minutes)   </div>
 
 
@@ -18,9 +18,10 @@
 1. Download LabSheets @ Semester-End: https://drive.google.com/drive/folders/1vS5r47VJLmh8RJNey37f2RXB6fUrHkm9
 
 ### How to get CGPA 4.0?
-1. Take SDS/PDS/TAV as faculty
+1. Take TAV >>> HMH/SDAS > PDS/SDS as faculty
+    - Check full list inside github.com/braculeaks/bracu.cse/faculties.md 
 2. Watch SDS/PDS/TAV Lecture Recordings (see below)
-    - SDS Recorded his offline classes
+    - SDS Recorded his offline classes spring 2026
 3. Solve all Slide-Problems first
 4. Solve pastYear examQuestions
 
